@@ -1,0 +1,16 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/api/auth/callback": [
+		"src/routes/api/auth/callback/+server.ts"
+	],
+	"/auth": [
+		"src/routes/auth/+page.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	]
+}
